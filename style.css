@@ -1,0 +1,17 @@
+h3{
+    background-color: #B8B9BB;
+}
+.first{
+   
+}
+.second{
+    background-color: #87AAAE;
+}
+body{
+    background-color: black;
+}
+@media (max-width: 480px) {
+.wp-image{
+   display:none;
+}
+}
